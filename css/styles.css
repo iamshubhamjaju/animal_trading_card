@@ -1,0 +1,61 @@
+body {
+	
+	font-family: Arial, sans-serif;
+}
+
+
+
+h3 {
+	padding: 10px;
+	font-size: 40px;
+	font-family: Arial, sans-serif;
+	color: #2f2f2f;
+	margin:0;
+        
+
+}
+.animal-card {
+	width: 320px;
+	border: 2px solid silver;
+	margin: 20px;
+	border-radius: 5px;
+	background-color: #00FF00;
+        max-height: 800px;
+}
+
+.interestingfact {
+	font-style: italic;
+        text-align: left;
+}
+
+
+img {
+	width: 300px;
+	padding: 9px;
+	border-radius: 5px;
+	border: 1px solid #4fff00;
+	
+}
+
+.content_box {
+	max-width: 300px;
+	border: 1px solid silver;
+	margin: 8px;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #FFDEFF;
+	
+
+}
+
+li {
+	list-style-type: none;
+}
+
+.animalslistitems span {
+	font-weight: bold;}
+.animalslistitems{
+        text-align:left;
+
+
+}
